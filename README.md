@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer and programmer from India</h3>
+<h3 align="center">A passionate frontend developer and C++ programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akspower&label=Profile%20views&color=0e75b6&style=flat" alt="akspower" /> </p>
 
