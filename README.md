@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://akspower.github.io/portfolio/)
 
-- 🌱 I’m currently learning **React JS,C++**
+- 🌱 I’m currently learning **React JS,MongoDB,MySQL**
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
