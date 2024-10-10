@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akspower&label=Profile%20views&color=0e75b6&style=flat" alt="akspower" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://akspower.github.io/portfolio/)
+- 🔭 I’m currently working on [Portfolio](https://workwithme.netlify.app/)
 
-- 🌱 I’m currently learning **React JS,MongoDB,MySQL**
+- 🌱 I’m currently learning **React JS,MongoDB,Node.js**
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://akspower.github.io/portfolio/](https://akspower.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://akspower.github.io/portfolio/](https://workwithme.netlify.app/)
 
-- 💬 Ask me about **Web Dev,C++**
+- 💬 Ask me about **Web Dev,C++,Databases**
 
 - 📫 How to reach me **adityakumarsharmapower@gmail.com**
 
-- 📄 Know about my experiences [https://akspower.github.io/portfolio/images/my-cv.pdf](https://akspower.github.io/portfolio/images/my-cv.pdf)
+- 📄 Know about my experiences [https://workwithme.netlify.app/](https://workwithme.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
