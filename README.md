@@ -57,7 +57,6 @@
     <strong>Embedded & Low-Level:</strong>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microchip_PIC_logo.svg" alt="pic" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/512px-Arduino_Logo.svg.png" alt="arduino" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" alt="raspberry-pi" width="40" height="40"/>
 </p>
