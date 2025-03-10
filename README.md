@@ -34,7 +34,6 @@
 - **RTOS & Bare Metal Programming:** FreeRTOS, Zephyr, Interrupt Handling  
 - **Communication Protocols:** UART, SPI, I2C, CAN, Modbus  
 - **Debugging & Development Tools:** Keil, MPLAB, STM32Cube, JTAG  
-- **Memory Management & Optimization:** Embedded Memory, Stack vs Heap  
 - **Operating Systems:** Linux (Ubuntu, Yocto), Windows  
 - **Embedded Libraries & Frameworks:** HAL, CMSIS, Arduino Framework  
 
