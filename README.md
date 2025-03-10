@@ -1,65 +1,95 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Sharma</h1>
-<h3 align="center">🚀 A passionate Developer and C++ programmer from India</h3>
+<h3 align="center">🚀 A passionate Developer, Embedded Engineer, and C++ Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akspower&label=Profile%20views&color=0e75b6&style=flat" alt="akspower" /> </p>
 
+## 🛠️ About Me:
 - 🔭 I’m currently working on my [Portfolio](https://workwithme.netlify.app/), showcasing my projects and skills!
 - 🌱 I’m learning **React JS, MongoDB, Node.js** to enhance my web development expertise.
-- 👯 I’m open to collaborating on **Web Development** projects.
+- 🎯 I have strong knowledge of **Embedded Systems, RTOS, Microcontrollers, and Low-Level Programming**.
+- 👯 I’m open to collaborating on **Web Development and Embedded Software** projects.
 - 🤝 I’m seeking guidance in **Cyber Security** to broaden my skill set.
-- 👨‍💻 Check out all my projects here: [My Projects](https://akspower.github.io/portfolio/)
-- 💬 Ask me about **Web Development, C++, Databases** – I'm always eager to help!
-- 📫 Reach out to me: [adityakumarsharmapower@gmail.com](mailto:adityakumarsharmapower@gmail.com)
 - 📄 Explore my experiences: [My Experience](https://workwithme.netlify.app/)
+- 💬 Ask me about **Web Development, Embedded C, C++, Databases, and Linux** – I'm always eager to help!
+- 📫 Reach out to me: [adityakumarsharmapower@gmail.com](mailto:adityakumarsharmapower@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+## 🏫 Education:
+🎓 **B.Tech in Computer Science**  
+🏫 **SRM University, India**  
+📅 **Graduation Year: 2025**
+
+---
+
+## 🖥️ Skills & Technologies:
+
+### **🚀 Web Development**
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
+- **Backend:** Node.js, Express.js, EJS
+- **Databases:** MySQL, MongoDB  
+- **Version Control:** Git, GitHub  
+
+### **🔌 Embedded Systems & Low-Level Programming**
+- **Languages:** C, C++, Embedded C, Python  
+- **Microcontrollers:** STM32, AVR, PIC, Arduino, Raspberry Pi  
+- **RTOS & Bare Metal Programming:** FreeRTOS, Zephyr, Interrupt Handling  
+- **Communication Protocols:** UART, SPI, I2C, CAN, Modbus  
+- **Debugging & Development Tools:** Keil, MPLAB, STM32Cube, JTAG  
+- **Memory Management & Optimization:** Embedded Memory, Stack vs Heap  
+- **Operating Systems:** Linux (Ubuntu, Yocto), Windows  
+- **Embedded Libraries & Frameworks:** HAL, CMSIS, Arduino Framework  
+
+### **🖧 Networking & OS**
+- **Networking:** TCP/IP, MQTT, Socket Programming  
+- **Operating Systems:** Linux, Windows  
+- **Embedded Linux & System Programming:** Device Drivers, Kernel Modules  
+
+---
+
+## 📚 Libraries & Tools:
 <p align="left">
+    <strong>Web:</strong> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</p>
+
+<p align="left">
+    <strong>Embedded & Low-Level:</strong>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Microchip_PIC_logo.svg" alt="pic" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/512px-Arduino_Logo.svg.png" alt="arduino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/512px-Raspberry_Pi_Logo.svg.png" alt="raspberry-pi" width="40" height="40"/>
+</p>
+
+<p align="left">
+    <strong>Operating Systems & Tools:</strong>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 My GitHub Stats:
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akspower&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=akspower&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔗 Connect with Me:
 <a href="https://linkedin.com/in/aditya-kumar-sharma-73447621a" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-kumar-sharma-73447621a" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-</p>
+<a href="mailto:adityakumarsharmapower@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" />
+</a>
 
-<h3 align="left">Education:</h3>
-<p align="left">
-    🎓 B.Tech in Computer Science<br>
-    🏫 SRM University, India<br>
-    📅 Graduation year: 2025
-</p>
+---
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <strong>Frontend:</strong> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
-<!--     <a href="https://ejs.co/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="ejs" width="40" height="40"/> </a> -->
-</p>
-<p align="left">
-    <strong>Backend:</strong> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-<p align="left">
-    <strong>Tools:</strong> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<!--     <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="xampp" width="40" height="40"/> </a> -->
-    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akspower&show_icons=true&locale=en&layout=compact" alt="akspower" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akspower&show_icons=true&locale=en" alt="akspower" /></p>
