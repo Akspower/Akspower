@@ -16,20 +16,42 @@
 - **Development Tools:** Keil, STM32Cube, MPLAB, JTAG, CMSIS, HAL  
 
 ### 🌐 Web Development
-- **Frontend:** ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react)  
-- **Backend & DB:** ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)  
-- **DevOps & Tools:** ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker)  
+- **Frontend:**  
+  ![HTML5](https://skillicons.dev/icons?i=html) 
+  ![CSS3](https://skillicons.dev/icons?i=css) 
+  ![JavaScript](https://skillicons.dev/icons?i=js) 
+  ![React](https://skillicons.dev/icons?i=react)  
+  ![Next.js](https://skillicons.dev/icons?i=nextjs) 
+  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+
+- **Backend & Database:**  
+  ![Node.js](https://skillicons.dev/icons?i=nodejs) 
+  ![Express.js](https://skillicons.dev/icons?i=express)  
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+  ![MySQL](https://skillicons.dev/icons?i=mysql) 
+  ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+
+- **DevOps & Tools:**  
+  ![Git](https://skillicons.dev/icons?i=git) 
+  ![GitHub](https://skillicons.dev/icons?i=github)  
+  ![Docker](https://skillicons.dev/icons?i=docker) 
+  ![AWS](https://skillicons.dev/icons?i=aws) 
+  ![Linux](https://skillicons.dev/icons?i=linux)  
+  ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
 
 ---
 
-## 📈 **GitHub Stats**
+## 🌍 **My GitHub Skyline**
+> "Check out my 3D GitHub contributions map!"  
+[![GitHub Skyline](https://skyline.github.com/akspower/2023)](https://skyline.github.com/akspower/2023)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akspower&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akspower&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+---
+
+## 📚 **What I'm Learning**
+🚗 **Exploring Automotive Software (ADAS, AUTOSAR, CAN)**  
+⚡ **Deep diving into Low-level System Programming**  
+🎨 **Building 3D Interactive Web Apps using React Three.js**  
 
 ---
 
@@ -50,5 +72,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40" width="40"/>
   </a>
 </p>
-
----
