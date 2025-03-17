@@ -34,9 +34,10 @@
 
 ---
 
-## 🌍 **My GitHub Skyline**
-> "Check out my 3D GitHub contributions map!"  
-[![GitHub Skyline](https://skyline.github.com/akspower/2024)](https://skyline.github.com/akspower/2024)
+## 🌍 **GitHub Activity**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akspower&theme=radical)
+
+---
 
 ---
 
@@ -50,18 +51,7 @@
 ## 🎓 **Education**
 🎓 **B.Tech in Computer Science**  
 🏫 **SRM University, India**  
-📅 **Graduation Year: 2025**  
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akspower&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=akspower&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akspower&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+📅 **Graduation Year: 2025**
 
 ---
 
