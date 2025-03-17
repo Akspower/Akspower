@@ -17,28 +17,20 @@
 
 ### 🌐 Web Development
 - **Frontend:**  
-  ![HTML5](https://skillicons.dev/icons?i=html) 
-  ![CSS3](https://skillicons.dev/icons?i=css) 
-  ![JavaScript](https://skillicons.dev/icons?i=js) 
-  ![React](https://skillicons.dev/icons?i=react)  
-  ![Next.js](https://skillicons.dev/icons?i=nextjs) 
-  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+  ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) 
+  ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) 
+  ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
   ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
 
 - **Backend & Database:**  
-  ![Node.js](https://skillicons.dev/icons?i=nodejs) 
-  ![Express.js](https://skillicons.dev/icons?i=express)  
-  ![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-  ![MySQL](https://skillicons.dev/icons?i=mysql) 
+  ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) 
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) 
   ![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
 
 - **DevOps & Tools:**  
-  ![Git](https://skillicons.dev/icons?i=git) 
-  ![GitHub](https://skillicons.dev/icons?i=github)  
-  ![Docker](https://skillicons.dev/icons?i=docker) 
-  ![AWS](https://skillicons.dev/icons?i=aws) 
-  ![Linux](https://skillicons.dev/icons?i=linux)  
-  ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
+  ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) 
+  ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) 
+  ![Linux](https://skillicons.dev/icons?i=linux) ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
 
 ---
 
