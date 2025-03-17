@@ -36,7 +36,7 @@
 
 ## 🌍 **My GitHub Skyline**
 > "Check out my 3D GitHub contributions map!"  
-[![GitHub Skyline](https://skyline.github.com/akspower/2023)](https://skyline.github.com/akspower/2023)
+[![GitHub Skyline](https://skyline.github.com/akspower/2024)](https://skyline.github.com/akspower/2024)
 
 ---
 
@@ -50,7 +50,18 @@
 ## 🎓 **Education**
 🎓 **B.Tech in Computer Science**  
 🏫 **SRM University, India**  
-📅 **Graduation Year: 2025**
+📅 **Graduation Year: 2025**  
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akspower&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=akspower&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akspower&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
