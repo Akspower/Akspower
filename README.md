@@ -30,7 +30,7 @@
 - **DevOps & Tools:**  
   ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) 
   ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) 
-  ![Linux](https://skillicons.dev/icons?i=linux) ![Jenkins](https://skillicons.dev/icons?i=jenkins)  
+  ![Linux](https://skillicons.dev/icons?i=linux)   
 
 ---
 
