@@ -11,7 +11,7 @@
 
 ### 🔌 Embedded Systems & Low-Level Programming
 - **Languages:** C, C++, Embedded C, Python  
-- **Microcontrollers:** STM32, AVR, PIC, Arduino, Raspberry Pi  
+- **Microcontrollers:** STM32, AVR, PIC, Arduino, Raspberry Pi. LPC2129(ARM7)  
 - **RTOS & Bare Metal:** FreeRTOS, Interrupts, CAN, SPI, I2C, UART  
 - **Development Tools:** Keil, STM32Cube, MPLAB, JTAG, CMSIS, HAL  
 
