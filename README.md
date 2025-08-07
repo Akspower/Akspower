@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Sharma</h1>
-<h3 align="center">🚀 | Developer | Embedded Engineer | C++ Programmer</h3>
+<h3 align="center"> | Developer | Embedded Engineer | C++ Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akspower&label=Profile%20views&color=0e75b6&style=flat" alt="akspower" />
